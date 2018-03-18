@@ -1,0 +1,1 @@
+v0.0.1, 17.03.2018 -- Initial release taken from one of my closed projects.
